@@ -8,9 +8,10 @@ There are three scenes in the project:
 
 <table>
   <tr>
-    <th>Project Sources</th>
+    <th colspan="2">Project Sources</th>
   </tr>
   <tr>
+    <th rowspan="3">Textures</th>
     <td>https://polyhaven.com/a/yellow_plaster</td>
   </tr>
   <tr>
@@ -18,5 +19,15 @@ There are three scenes in the project:
   </tr>
   <tr>
     <td>https://polyhaven.com/a/dirty_carpet</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Models</th>
+    <td>Blah</td>
+  </tr>
+  <tr>
+    <td>Blah</td>
+  </tr>
+  <tr>
+    <td>Blah</td>
   </tr>
 </table>
