@@ -8,7 +8,7 @@ There are three scenes in the project:
 
 <table>
   <tr>
-    <th colspan="2">Project Sources</th>
+    <th colspan="2" width="750px">Project Sources</th>
   </tr>
   <tr>
     <th rowspan="3">Textures</th>
