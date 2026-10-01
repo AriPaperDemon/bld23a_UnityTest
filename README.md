@@ -1,5 +1,8 @@
 <h1>Unity test project for DIG3779</h1>
 
+<h2>Project Description</h2>
+This project is a test project for Unity. The core part of the project is located in CourseScene, which has a small parkour section, a maze, and then ends in a tightrope
+
 <h2>There are three scenes in the project</h2>
 
 - CourseScene:  This scene has a very short parkour course, a maze, and lastly a tightrope course
