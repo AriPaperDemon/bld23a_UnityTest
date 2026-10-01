@@ -25,7 +25,7 @@ There are three scenes in the project:
     <td><a href="https://polyhaven.com/a/metal_office_desk">Office Desk</a></td>
   </tr>
   <tr>
-    <td>Blah</td>
+    <td><a href="https://polyhaven.com/a/WetFloorSign_01">Wet Floor Sign</a></td>
   </tr>
   <tr>
     <td>Blah</td>
