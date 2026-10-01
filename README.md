@@ -12,17 +12,17 @@ There are three scenes in the project:
   </tr>
   <tr>
     <th rowspan="3">Textures</th>
-    <td>https://polyhaven.com/a/yellow_plaster</td>
+    <td><a href="https://polyhaven.com/a/yellow_plaster">Maze Walls</a></td>
   </tr>
   <tr>
-    <td>https://polyhaven.com/a/dry_river_pebbles</td>
+    <td><a href="https://polyhaven.com/a/dry_river_pebbles">Parkour Blocks</a></td>
   </tr>
   <tr>
-    <td>https://polyhaven.com/a/dirty_carpet</td>
+    <td><a href="https://polyhaven.com/a/dirty_carpet">Maze Carpet</a></td>
   </tr>
   <tr>
     <th rowspan="3">Models</th>
-    <td>Blah</td>
+    <td><a href="https://polyhaven.com/a/metal_office_desk">Office Desk</a></td>
   </tr>
   <tr>
     <td>Blah</td>
