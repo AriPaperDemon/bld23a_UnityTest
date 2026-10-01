@@ -14,6 +14,16 @@ This project is a test project for Unity. The core part of the project is locate
 - Changed player jump timer to 1 second because waiting 3 seconds was far too long when I had to do several consecutive jumps
 - Changed player look sensitivity to 0.2 because 0.5 was unplayabl-y fast
 
+<h2>Images</h2>
+<img width="1693" height="979" alt="Screenshot_20261001_171938" src="https://github.com/user-attachments/assets/1a35a756-c4c9-4ecd-9842-d3cfb25bdf3b" />
+<img width="1767" height="982" alt="Screenshot_20261001_171853" src="https://github.com/user-attachments/assets/8a84a5c0-69cc-4805-99b8-123c4ad326ab" />
+<img width="1480" height="977" alt="Screenshot_20261001_172019" src="https://github.com/user-attachments/assets/bfc6f5f4-ba1a-4d11-a864-00661f8879f4" />
+<img width="1393" height="945" alt="Screenshot_20261001_172057" src="https://github.com/user-attachments/assets/cf91d8e1-38c4-4b01-8728-59597707d1c3" />
+<img width="1762" height="932" alt="Screenshot_20261001_172122" src="https://github.com/user-attachments/assets/4b7dacfb-5c47-43ab-8bd3-9f319881b946" />
+
+
+
+
 <h2>Sources</h2>
 <table>
   <tr>
