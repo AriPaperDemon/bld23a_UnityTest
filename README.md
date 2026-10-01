@@ -28,6 +28,6 @@ There are three scenes in the project:
     <td><a href="https://polyhaven.com/a/WetFloorSign_01">Wet Floor Sign</a></td>
   </tr>
   <tr>
-    <td>Blah</td>
+    <td><a href="https://polyhaven.com/a/wooden_ladder">Wooden Ladder</a></td>
   </tr>
 </table>
